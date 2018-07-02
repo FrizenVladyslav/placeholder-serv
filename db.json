@@ -6,8 +6,15 @@
   		"lastName": "Frizen",
   		"userId": "1",
   		"id": "1",
-  		"education": "CHDTU",
+  		"education": "CHDTU"
   	},
+  	{
+  		"firstName": "Vladyslav",
+  		"lastName": "Frizen",
+  		"userId": "1",
+  		"id": "1",
+  		"education": "School"
+  	}
   ],
   "posts": [
     {
