@@ -1,4 +1,14 @@
 {
+
+  "users": [
+  	{
+  		"firstName": "Vladyslav",
+  		"lastName": "Frizen",
+  		"userId": "1",
+  		"id": "1",
+  		"education": "CHDTU",
+  	},
+  ]
   "posts": [
     {
       "id": 1,
