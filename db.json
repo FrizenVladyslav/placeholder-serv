@@ -1,0 +1,11 @@
+[
+	'users': [
+			{
+				id: 1,
+				firstName: Vladyslav,
+				lastName: Frizen,
+				education: CHDTU,
+				userId: 1,		
+			},
+	],
+]
